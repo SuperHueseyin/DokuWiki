@@ -2,5 +2,5 @@
 
 ```mermaid
 sequenceDiagram
-  A-->B: Works!
+  A-->B: Test Mermaid Diagram!
 ```
