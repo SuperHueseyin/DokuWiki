@@ -1,6 +1,1 @@
-# Documentation for DokuWiki
-
-```mermaid
-sequenceDiagram
-  A-->B: Test Mermaid Diagram!
-```
+# Dokumentation für DokuWiki (SchoolLab)
