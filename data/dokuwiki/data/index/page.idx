@@ -2,3 +2,8 @@ start
 schoollab:readme
 schoollab:welcome
 schoollab:infrastructure
+schoollab:team
+schoollab:team:team_role
+schoollab:team:team
+schoollab:infrastructure:infrastructure_general
+schoollab:doc:doc_general
