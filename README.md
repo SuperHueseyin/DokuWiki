@@ -7,4 +7,4 @@
 
 
 
-made by Boris
+Working via Docker Compose
