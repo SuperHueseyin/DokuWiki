@@ -22,7 +22,7 @@ Unter Windows empfehlen Wir die Docker Desktop zu installieren, befolge das [die
 Mit diesem Befehl kann die Dokumentation mithilfe der Container-Technologie **docker** und **docker-compose** auf dem Server oder Lokal gestartet werden.
 
 ```Docker
-<Docker-Compose Befehl>
+docker-compose -f docker-compose.yaml up -d
 ```
 
 ## Docker Image
