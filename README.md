@@ -32,3 +32,9 @@ docker-compose -f docker-compose.yaml up -d
 
 Das Docker [Image zu DokuWiki](https://hub.docker.com/r/linuxserver/dokuwiki) ist für jeden im Internet unter Docker Hub frei verfügbar.
 
+
+## Hinweise
+
+- Um Berechtigungsprobleme zu umgehen wird empfohlen die Volumes unter /home/ zu erstellen
+- 
+
