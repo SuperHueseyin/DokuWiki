@@ -34,7 +34,4 @@ Das Docker [Image zu DokuWiki](https://hub.docker.com/r/linuxserver/dokuwiki) is
 
 
 ## Hinweise
-
-- Um Berechtigungsprobleme zu umgehen wird empfohlen die Volumes unter /home/ zu erstellen
-- 
-
+Um Berechtigungsprobleme zu umgehen wird empfohlen die Volumes unter /home/ zu erstellen
