@@ -24,6 +24,7 @@ Die Empfehlung unter Windows wäre Docker Desktop zu installieren. Befolge [dies
 
 Mit diesem Befehl kann die Dokumentation mithilfe der Container-Technologie **docker** und **docker-compose** auf dem Server oder Lokal gestartet werden.
 
+Folgender Befehl sowie die docker-compose.yaml müssen im extra dafür erstellten Dokuwiki-Verzeichnis gespeichert und ausgeführt werden:
 ```Docker
 docker-compose -f docker-compose.yaml up -d
 ```
@@ -33,5 +34,5 @@ docker-compose -f docker-compose.yaml up -d
 Das Docker [Image zu DokuWiki](https://hub.docker.com/r/linuxserver/dokuwiki) ist für jeden im Internet unter Docker Hub frei verfügbar.
 
 
-## Hinweise
-Um Berechtigungsprobleme zu umgehen wird empfohlen die Volumes unter /home/ zu erstellen
+## Hinweis
+- um Berechtigungsprobleme zu umgehen wird empfohlen die Verzeichnisse unter /home/ zu erstellen
