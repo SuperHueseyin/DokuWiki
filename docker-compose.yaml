@@ -7,8 +7,8 @@ services:
       - PGID=1000
       - TZ=Europe/Amsterdam
     volumes:
-      - /home/bsa/dokuwiki/data/:/config/
-      - /home/bsa/dokuwiki/pages/:/config/dokuwiki/data/pages/
+      - ./data/:/config/
+      - ./pages/:/config/dokuwiki/data/pages/
     ports:
       - 80:80
       - 443:443 #optional
